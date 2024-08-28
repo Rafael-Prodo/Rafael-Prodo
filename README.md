@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 * **Languages**: Java, JavaScript, Python, SQL, C#
   
-* **Tools**: Git, XAMPP, Docker, VS Code, NetBeans
+* **Tools**: Git, XAMPP, Docker, VS Code, Linux, zNetBeans
   
 * **Frameworks**: Spring Boot, Node.js, React
 
