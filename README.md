@@ -1,19 +1,24 @@
-## Olá, sejam bem vindos ao meu perfil!
+# :desktop_computer: Hello, Word! :earth_americas:
 
-_Eu sou Rafael tenho 34 anos, atualmente moro em São Roque.SP, descobri minha afinidade e entendimento de tecnologia aos 10 anos, com 19 anos fiz um curso técnico com ênfase em hardware, trabalhei por alguns anos com suporte técnico como autônomo, com especialidade de manutenção e montagem de computadores, a maior parte do meu desenvolvimento profissional é dentro da área comercial atuando com logistica, pessoas e vendas. Sou graduado em gestão de recursos humanos, atualmente estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas, estou em busca da minha oportunidade profissional com desenvolvimento de sistemas._
+## About me
+
+_I'm Rafael, I'm 34 years old, I currently live in São Roque.SP, I discovered my affinity and understanding of technology at the age of 10, at the age of 19 I took a technical course with an emphasis on hardware, I worked for a few years with technical support as a freelancer, with a specialty maintenance and assembly of computers, most of my professional development is within the commercial area working with logistics, people and sales. I have a degree in human resources management, I am currently in the 3rd semester of the Systems Analysis and Development course, I am looking for my professional opportunity with systems development._
 
 <!---
 Rafael-Prodo/Rafael-Prodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+## Skills
+
+* **Languages**: Java, JavaScript, Python, SQL, C#
+  
+* **Tools**: Git, XAMPP, Docker, VS Code, NetBeans
+  
+* **Frameworks**: Spring Boot, Node.js, React
 
 
-
-
-
-
-## Ferramentas e tecnologias que estou estudando:
+# Ferramentas e tecnologias que estou estudando:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 
