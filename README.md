@@ -2,35 +2,36 @@
 
 ## About me
 
-_I'm Rafael, I'm 34 years old, I currently live in São Roque.SP, I discovered my affinity and understanding of technology at the age of 10, at the age of 19 I took a technical course with an emphasis on hardware, I worked for a few years with technical support as a freelancer, with a specialty maintenance and assembly of computers, most of my professional development is within the commercial area working with logistics, people and sales. I have a degree in human resources management, I am currently in the 3rd semester of the Systems Analysis and Development course, I am looking for my professional opportunity with systems development._
+_Sou **Rafael Prosdoskimis**, estudante de Engenharia de Software, graduado em Análise e Desenvolvimento de Sistemas e graduado em gestão de Recursos Humanos. Tenho sólida experiência de atuação no segmento comercial e varejista, atualmente trabalho dentro de uma das maiores operações logística da américa latina, tenho experiência técnica de manutenção de hardware e integração de sistemas. Atualmente estou me dedicando em aprimorar minhas habilidades técnicas de desenvolvimento em Engenharia de Software. Estou apto para contribuir diante da minha primeira oportunidade formal na área de tecnologia, com minhas habilidades técnicas adquiridas até o momento e minhas experiencias profissionais. Meu objetivo é estar sempre me dedicando para evoluir continuamente como desenvolvedor de sistemas, agregando valores positivos que abrangem a comunidade de desenvolvedores pelo mundo, com responsabilidade e maturidade._
 
-<!---
-Rafael-Prodo/Rafael-Prodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
 ## Skills
 
-* **Languages**: Java, JavaScript, Python, SQL, C#
-  
-* **Tools**: Git, XAMPP, Docker, VS Code, Linux, zNetBeans
-  
-* **Frameworks**: Spring Boot, Node.js, React
+- Análise de sistemas
+- Gestão de desempenho
+- Resolução de problemas
+- Visão estratégica
+- Integração de sistemas
+- Comunicação efetiva
 
+---
+
+## Stack e tecnologias
+
+* **Languages**: TypeScript, JavaScript, Python, Java, CSS, HTML 
+  
+* **Tools**: Git, XAMPP, MySQL, MongoDB
+  
+* **Frameworks**: SpringBoot, Node.js, React, Django
+
+---
 
 ## Tools and technologies I'm studying:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img 
 
-
-## GitHub Stats
-
-<div>
-<a href="https://github.com/Rafael-Prodo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Prodo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Prodo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+---
 
 ## Contact:
 
