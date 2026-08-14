@@ -30,3 +30,5 @@ _Sou **Rafael Prosdoskimis**, estudante de Engenharia de Software, graduado em A
 <div>
 <a href="https://www.linkedin.com/in/rafael-prosdoskimis-383405241" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<p align="center"><i>Aberto a oportunidades, conexões e trocas de conhecimento na área de tecnologia.</i></p>
