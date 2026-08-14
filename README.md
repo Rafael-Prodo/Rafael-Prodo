@@ -23,6 +23,18 @@ _Sou **Rafael Prosdoskimis**, estudante de Engenharia de Software, graduado em A
 ---
 
 
+## Interests in Development
+
+- Lógica de programação e resolução de problemas
+- Integração de sistemas
+- Desenvolvimento FullStack
+- Automação de processos
+- Gerenciamento de dados
+- Segurança da informação
+
+---
+
+
 ## Stack e tecnologias
 
 * **Languages**: TypeScript, JavaScript, Python, Java, CSS, HTML 
