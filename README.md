@@ -16,6 +16,8 @@ _Sou **Rafael Prosdoskimis**, estudante de Engenharia de Software, graduado em A
 - Integração de sistemas
 - Comunicação efetiva
 
+---
+
 
 ## Stack e tecnologias
 
@@ -25,10 +27,14 @@ _Sou **Rafael Prosdoskimis**, estudante de Engenharia de Software, graduado em A
   
 * **Frameworks**: SpringBoot, Node.js, React, Django
 
+---
+
 
 ## Tools and technologies I'm studying:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
+---
 
 
 ## Contact:
