@@ -35,7 +35,7 @@ _Sou **Rafael Prosdoskimis**, estudante de Engenharia de Software, graduado em A
 ---
 
 
-## Stack e tecnologias
+## Stack and technologies
 
 * **Languages**: TypeScript, JavaScript, Python, Java, CSS, HTML 
   
